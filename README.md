@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rahuldsa.github.io/](https://rahuldsa.github.io/)
 
-- 📫 How to reach me **rahulgupta26692@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NV4MeIsP5xwTLgX3Vt7VmA-RhCvXmdKT/view?usp=sharing](https://drive.google.com/file/d/1NV4MeIsP5xwTLgX3Vt7VmA-RhCvXmdKT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
