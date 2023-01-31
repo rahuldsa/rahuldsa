@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="center" alt="rahulcoding" width="100%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4732t9mhenfj5akf27v1xf9nigvst8hiw64ed9ji9x&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldsa&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldsa" /> </p>
 
