@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">Full Stack Developer | AI Builder | Backend Engineer</h3>
 
 <p align="center">
-I build fast, scalable web applications and AI-powered systems.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Builder;Backend+Engineer;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rahuldsa&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+<p align="center">
+Building scalable web apps, AI tools and automation systems.
 </p>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="100%" />
@@ -15,40 +18,36 @@ I build fast, scalable web applications and AI-powered systems.
 
 # 🚀 About Me
 
-Hello! I'm **Rahul Gupta**, a passionate **Full Stack Web Developer** from India with a strong interest in **AI systems and scalable backend architecture**.
+Hello! I'm **Rahul Gupta**, a **Full Stack Developer and AI enthusiast** from India.
 
-I graduated from **Masai School (Full Stack Development)** and hold a **B.Com degree from Sri Aurobindo College**.
+I specialize in building **scalable backend systems, modern web applications, and AI-powered tools**.
 
-I enjoy building:
+🎓 **Full Stack Web Development – Masai School**  
+🎓 **B.Com – Sri Aurobindo College**
 
-• Scalable web applications  
-• AI-powered automation tools  
-• Backend systems and APIs  
-• Real-world products solving practical problems  
-
-I am currently exploring **AI integrations, automation, and cloud systems**.
+I enjoy building products that combine **engineering, automation, and AI**.
 
 ---
 
 # 🧠 Tech Stack
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+### Languages
+<img src="https://skillicons.dev/icons?i=js,python,html,css"/>
 
-### ⚙️ Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap"/>
 
-### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github" />
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github"/>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm"/>
 
 ---
 
@@ -56,17 +55,17 @@ I am currently exploring **AI integrations, automation, and cloud systems**.
 
 • OpenAI API integrations  
 • ChatGPT based applications  
-• Natural Language Processing  
 • Machine Learning with Python  
-• Financial automation tools  
-• AI-driven productivity systems  
+• Natural Language Processing  
+• Financial automation systems  
+• AI workflow automation  
 
 ---
 
 # 💼 Featured Projects
 
 ### 🛒 BigBasket Clone
-Full-featured e-commerce platform with authentication, product catalog, and order management.
+Full-stack e-commerce application with authentication and product catalog.
 
 Tech Stack  
 React • Node.js • MongoDB • Express
@@ -74,10 +73,7 @@ React • Node.js • MongoDB • Express
 ---
 
 ### 🛍 Flipkart Clone
-Complete e-commerce platform with product search, filtering, and cart management.
-
-Tech Stack  
-HTML • CSS • JavaScript
+E-commerce platform with product search, filtering and cart system.
 
 Live Demo  
 https://zesty-stroopwafel-3a5b82.netlify.app/
@@ -85,47 +81,33 @@ https://zesty-stroopwafel-3a5b82.netlify.app/
 ---
 
 ### 💪 Fitness Blender Clone
-Workout tracking and fitness planning platform.
+Workout tracking application for health and fitness.
 
 Tech Stack  
-React • Redux • REST APIs
+React • Redux • REST API
 
 ---
 
 ### 🤖 AutoCA – AI for Chartered Accountants
-AI-powered system that automates tax calculations, compliance checks, and financial workflows.
+AI-powered platform automating tax calculations and compliance workflows.
 
 Tech Stack  
-Python • Machine Learning • Financial APIs
+Python • Machine Learning • Automation
 
 ---
 
-### 📈 Automated Trading System
-Algorithmic trading system using real-time market data.
+### 📈 Automated Trading Algorithm
+Real-time trading system using Fyers API.
 
 Tech Stack  
-Python • Fyers API • Pandas • NumPy
+Python • Pandas • NumPy • Financial APIs
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 Portfolio Website
 
-Portfolio Website  
+Visit Portfolio  
 https://rahuldsa.github.io/
-
----
-
-# 💼 Experience
-
-### Freelance Full Stack Developer
-June 2024 – Present
-
-Working on:
-
-• E-commerce websites  
-• Business portfolio websites  
-• Full-stack applications  
-• Client web solutions  
 
 ---
 
@@ -167,19 +149,31 @@ Working on:
 
 ---
 
+# 📊 Coding Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldsa&theme=react-dark"/>
+</p>
+
+---
+
 # 🤝 Connect With Me
 
+<p>
+
 <a href="https://linkedin.com/in/rahulgupta011">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:rahulgupta26692@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://rahuldsa.github.io/">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+</p>
 
 ---
 
