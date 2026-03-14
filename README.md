@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer | Backend Engineer | AI Builder</h3>
 
 <p align="center">
-Building scalable web apps, AI tools and automation systems.
+Building scalable web applications, AI tools and automation systems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahuldsa&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="100%">
@@ -19,7 +23,7 @@ Building scalable web apps, AI tools and automation systems.
 
 ---
 
-# 🧠 Tech Stack
+# 🧰 Tech Stack
 
 ### 👨‍💻 Languages
 <p>
@@ -54,23 +58,31 @@ Building scalable web apps, AI tools and automation systems.
 - WebSockets
 - System Design
 - AWS Cloud Infrastructure
-- AI integrations in web applications
+- AI Integrations in Web Apps
 
 ---
 
 # 💼 Featured Projects
 
 ### 🛒 Flipkart Clone
-Full-stack e-commerce platform with authentication and payment flow
+Full-stack e-commerce platform with authentication and product system
 
 🔗 https://zesty-stroopwafel-3a5b82.netlify.app/
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 Portfolio
 Developer portfolio showcasing projects and skills
 
 🔗 https://rahuldsa.github.io/
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahuldsa&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -78,12 +90,20 @@ Developer portfolio showcasing projects and skills
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahuldsa&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahuldsa&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldsa&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldsa&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldsa&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldsa&layout=compact&theme=tokyonight" />
 
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldsa&theme=tokyo-night" />
 </p>
 
 ---
@@ -98,7 +118,7 @@ Developer portfolio showcasing projects and skills
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/rahulgupta011">
 <img src="https://skillicons.dev/icons?i=linkedin" />
