@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Builder;Backend+Engineer;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Full+Stack+Developer;Data+Analyst;Backend+Developer;Automation+Builder&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -9,109 +9,111 @@
 </p>
 
 <p align="center">
-Building scalable web apps, AI tools and automation systems.
+Building AI-powered applications, scalable backend systems, and modern web experiences.
 </p>
-
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="100%" />
 
 ---
 
 # 🚀 About Me
 
-Hello! I'm **Rahul Gupta**, a **Full Stack Developer and AI enthusiast** from India.
+I'm **Rahul Gupta**, an aspiring **AI Engineer, Data Analyst, and Full Stack Developer** from India.
 
-I specialize in building **scalable backend systems, modern web applications, and AI-powered tools**.
+I enjoy building:
 
-🎓 **Full Stack Web Development – Masai School**  
-🎓 **B.Com – Sri Aurobindo College**
+* AI-powered applications
+* Backend systems & APIs
+* Automation workflows
+* Data-driven solutions
+* Modern web applications
 
-I enjoy building products that combine **engineering, automation, and AI**.
+🎓 Full Stack Web Development — Masai School
+🎓 B.Com (Business Analytics) — Delhi University
+
+Currently exploring:
+
+* Generative AI
+* AI Automation
+* Backend Architecture
+* Data Analytics
+* Workflow Automation
 
 ---
 
 # 🧠 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,python,html,css"/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap"/>
 
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ### Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github"/>
+### Tools & Platforms
 
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 ---
 
 # 🤖 AI & Automation
 
-• OpenAI API integrations  
-• ChatGPT based applications  
-• Machine Learning with Python  
-• Natural Language Processing  
-• Financial automation systems  
-• AI workflow automation  
+• ChatGPT & Claude workflows
+• AI-powered applications
+• Prompt Engineering
+• API Integrations
+• AI Workflow Automation
+• Data Analysis with Python
+• Automation Systems
 
 ---
 
 # 💼 Featured Projects
 
-### 🛒 BigBasket Clone
-Full-stack e-commerce application with authentication and product catalog.
+## 🛒 Flipkart Clone
 
-Tech Stack  
-React • Node.js • MongoDB • Express
+E-commerce platform with product browsing, filtering, and cart functionality.
 
----
-
-### 🛍 Flipkart Clone
-E-commerce platform with product search, filtering and cart system.
-
-Live Demo  
-https://zesty-stroopwafel-3a5b82.netlify.app/
+Tech Stack:
+HTML • CSS • JavaScript
 
 ---
 
-### 💪 Fitness Blender Clone
-Workout tracking application for health and fitness.
+## 💪 Fitness Blender Clone
 
-Tech Stack  
-React • Redux • REST API
+Fitness and workout platform with responsive user interface and authentication features.
 
----
-
-### 🤖 AutoCA – AI for Chartered Accountants
-AI-powered platform automating tax calculations and compliance workflows.
-
-Tech Stack  
-Python • Machine Learning • Automation
+Tech Stack:
+HTML • CSS • JavaScript
 
 ---
 
-### 📈 Automated Trading Algorithm
-Real-time trading system using Fyers API.
+## 🌐 Personal Portfolio Website
 
-Tech Stack  
-Python • Pandas • NumPy • Financial APIs
+Responsive portfolio website showcasing projects, skills, and development work.
 
----
-
-### 🌐 Portfolio Website
-
-Visit Portfolio  
+Portfolio:
 https://rahuldsa.github.io/
 
 ---
 
-# 📊 GitHub Analytics
+## 🤖 AI Movie Recommendation System
+
+AI-powered recommendation system using user preferences and analytical logic.
+
+Tech Stack:
+Python • APIs • Data Analysis
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -133,35 +135,11 @@ https://rahuldsa.github.io/
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahuldsa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📊 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldsa&theme=react-dark"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/rahulgupta011">
+<a href="https://www.linkedin.com/in/rahulgupta011/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -177,11 +155,10 @@ https://rahuldsa.github.io/
 
 ---
 
-# 📄 Resume
+# 📄 Portfolio
 
-View Resume  
-https://drive.google.com/file/d/1NV4MeIsP5xwTLgX3Vt7VmA-RhCvXmdKT/view
+https://rahuldsa.github.io/
 
 ---
 
-⭐ From Rahul Gupta
+⭐ Always learning, building, and exploring AI-powered technologies.
